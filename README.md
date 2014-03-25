@@ -1,28 +1,31 @@
-# Opencart 
+# Opencart
 
-## Overview
+## O que é
 
-OpenCart is free open source ecommerce platform for online merchants. OpenCart provides a professional and reliable foundation from which to build a successful online store.
+O Opencart é uma plataforma opensource para comércio digital. O Opencart provê uma base profissional e confiável para construir lojas virtuais de sucesso.
+Já o Opencart-BR é um projeto que traduz para Português Brasileiro o sistema original e incorpora extensões dos serviços de pagamento e frete mais populares no Brasil.
 
-## Issues
-	
-You should follow the instruction before you create a issue.
+## Problemas
+
+Siga as instruções antes de criar uma pergunta (issue).
  
- 1. Use [google](http://www.google.com) about your issue.
- 2. Use [forum](http://forum.opencart.com/).
- 3. Firstly, [search](https://github.com/opencart/opencart/issues/search?q=example) in issues if you don't still find it. 
- 4. You can create an issue if your problem is a bug for default opencart source. Otherwise, the issue will be closed. You can use [forum](http://forum.opencart.com/) to help your specific problems.   
+ 1. Pesquise no [google](http://www.google.com) sobre seu problema.
+ 2. Pesquise no site [Opencart Brasil](http://www.opencartbrasil.com.br/) sobre seu problema.
+ 3. Use o [fórum](http://www.opencartbrasil.com.br/forum/) do Opencart Brasil.
+ 4. Pesquise na [lista de perguntas](https://github.com/opencart/opencart/issues) do Opencart original.
+ 5. Pesquise na [lista de perguntas](https://github.com/chgsantos/opencart-br/issues) do Opencart-BR.
+ 6. Você pode criar uma pergunta se o problema for um bug (erro) no código padrão do Opencart (sem modificações). Caso contrário a pergunta será fechada. 
 
-## How to Contribute
+## Como Contribuir
 
- 1. Fork and edit
- 2. Submit pull request for consideration
+ 1. Crie um Fork e edite o código.
+ 2. Envie requisições de pull.
 
-### Contribute Style Guide 
+### Guia para Contribuir
 
- 1. Be clear on your commit messages 
- 2. Every pull request may not be accepted. Don't blame anybody. 
+ 1. Seja claro nas suas mensagens de commit.
+ 2. Qualquer requisição de pull pode não ser aceita. Não culpe ninguém por isso.
 
-## License
+## Licença
 
 [GNU General Public License version 3 (GPLv3)](https://github.com/opencart/opencart/blob/master/license.txt)
